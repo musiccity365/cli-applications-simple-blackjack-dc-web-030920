@@ -53,7 +53,7 @@ end
 
 def invalid_command
   # code invalid_command here
-  puts "Please enter a valid command!"
+  puts "Please enter a valid command"
 end
 
 #####################################################
