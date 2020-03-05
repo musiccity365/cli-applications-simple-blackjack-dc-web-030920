@@ -50,9 +50,11 @@ def hit?(x)
   end
 end
 
+=begin
 def invalid_command
   # code invalid_command here
 end
+=end
 
 #####################################################
 # get every test to pass before coding runner below #
